@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "353634846939",
+    "firebase_url": "https://iu-bus-schedule.firebaseio.com",
+    "project_id": "iu-bus-schedule",
+    "storage_bucket": "iu-bus-schedule.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353634846939:android:eb0f2f2363f2147429a4fe",
+        "android_client_info": {
+          "package_name": "com.sanjoysarker.iu_bus_schedule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353634846939-gptfrsuu5fahoq9n7h9ep2kboho2bnh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWY18QWevq8V-ep1dapSX8aE5JRaBz3d8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353634846939-gptfrsuu5fahoq9n7h9ep2kboho2bnh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
